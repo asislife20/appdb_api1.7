@@ -7,7 +7,7 @@
 [![xcode-version](https://img.shields.io/badge/xcode-13.1-blue)](https://developer.apple.com/xcode/)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
-A fully-featured iOS client for [appdb.to](https://appdb.to) written in Swift 5 (iOS 10+).
+A fully-featured iOS client for [appdb.to](https://appdb.to) written in Swift 5 (iOS 10+)
 
 ## Screenshots
 <p align="center">
